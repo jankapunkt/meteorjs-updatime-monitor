@@ -1,0 +1,12 @@
+{
+  "monitors": {
+    "meteor": {
+      "name": "meteor",
+      "method": "HEAD",
+      "url": "https://jankuester.com",
+      "timeout": 10000,
+      "interval": 5000,
+      "response": 200
+    }
+  }
+}
